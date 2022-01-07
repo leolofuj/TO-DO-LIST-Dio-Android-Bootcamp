@@ -6,7 +6,7 @@
 
 Desenvolvimento de um App de tarefas diárias em Kotlin, utlizando o Android Studio, a partir do projeto disponibilizado pela DIO no bootcamp Carrefour Andorid Developer.
 
-O seu desenvolvimento proporcionou:
+O seu desenvolvimento foi fundamental para:
 
 - Compreensão das funcionalidades da IDE Android Studio.
 - Aplicação dos recursos drawables no desenvolvimento de layouts.
@@ -27,7 +27,11 @@ https://xd.adobe.com/view/77c56d1f-232d-41e9-a220-371d51991646-2296/specs/
 
 :congratulations: Agradecimentos:
 
-Gostaria de agradecer ao orientador do projeto Ezequiel Messore pela sua excepcional explicação e o compartilhamento dos dados utilizados em seu desenvolvimento, além da DIO, por nos proporcionar a oportunidade do aprendizado de funcionalidades tão importantes para nós, aspirantes às carreiras Devs, de forma gratuita e com excelente qualidade. :clap:
+Gostaria de agradecer ao orientador do projeto Ezequiel Messore pela sua excepcional explicação e também a DIO, por proporcionar a oportunidade do aprendizado de funcionalidades tão importantes para nós, aspirantes às carreiras Devs, de forma gratuita e com excelente qualidade. :clap:
+
+
+
+
 
 
 
